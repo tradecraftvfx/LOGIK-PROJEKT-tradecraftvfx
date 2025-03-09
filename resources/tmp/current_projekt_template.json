@@ -1,4 +1,8 @@
 {
+    "Serial Number: ": "",
+    "Client Name: ": "vfx_shot_tracker",
+    "Campaign Name: ": "test_01",
+    "Projekt Name: ": "vfx_shot_tracker_test_01",
     "Serial Number: ": "54321",
     "Client Name: ": "pr",
     "Campaign Name: ": "213",
@@ -8,9 +12,11 @@
     "Height: ": "1080",
     "Aspect Ratio: ": "1.7777778",
     "Bit Depth: ": "16-bit fp",
-    "Framerate: ": "23.976 fps",
+    "Framerate: ": "25 fps",
     "Scan Mode: ": "PROGRESSIVE",
     "Start Frame: ": "1001",
+    "Init Config: ": "1920x1080@25000p.cfg",
+    "Color Science: ": "ADSK_ACES_1.1"
     "Init Config: ": "1920x1080@23976p.cfg",
     "Color Science: ": "ADSK_ACES_1.1",
     "OCIO Config: ": "OCIO_studio_config"

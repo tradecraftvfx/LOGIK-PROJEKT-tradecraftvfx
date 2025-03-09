@@ -17,6 +17,7 @@
                     },
                     {
                         "Bookmark": "projekt home",
+                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/",
                         "Path": "/PROJEKTS/54321_pr_213/",
                         "Visibility": "Global"
                     },
@@ -28,11 +29,23 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "assets",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets",
                                         "Path": "/PROJEKTS/54321_pr_213/assets",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "artwork",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/artwork",
+                                        "Visibility": "Global"
+                                    },
+                                    {
+                                        "Bookmark": "audio",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/audio",
+                                        "Visibility": "Global"
+                                    },
+                                    {
+                                        "Bookmark": "cgi",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/cgi",
                                         "Path": "/PROJEKTS/54321_pr_213/assets/artwork",
                                         "Visibility": "Global"
                                     },
@@ -88,6 +101,22 @@
                                     },
                                     {
                                         "Bookmark": "font",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/font",
+                                        "Visibility": "Global"
+                                    },
+                                    {
+                                        "Bookmark": "footage_graded",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/footage_graded",
+                                        "Visibility": "Global"
+                                    },
+                                    {
+                                        "Bookmark": "footage_raw",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/footage_raw",
+                                        "Visibility": "Global"
+                                    },
+                                    {
+                                        "Bookmark": "graphics",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/graphics",
                                         "Path": "/PROJEKTS/54321_pr_213/assets/font",
                                         "Visibility": "Global"
                                     },
@@ -128,46 +157,55 @@
                                     },
                                     {
                                         "Bookmark": "images",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/images",
                                         "Path": "/PROJEKTS/54321_pr_213/assets/images",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "legal",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/legal",
                                         "Path": "/PROJEKTS/54321_pr_213/assets/legal",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "matchmoving",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/matchmoving",
                                         "Path": "/PROJEKTS/54321_pr_213/assets/matchmoving",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "miscellaneous",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/miscellaneous",
                                         "Path": "/PROJEKTS/54321_pr_213/assets/miscellaneous",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "paint",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/paint",
                                         "Path": "/PROJEKTS/54321_pr_213/assets/paint",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "photoshop",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/photoshop",
                                         "Path": "/PROJEKTS/54321_pr_213/assets/photoshop",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "roto",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/roto",
                                         "Path": "/PROJEKTS/54321_pr_213/assets/roto",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "slates",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/slates",
                                         "Path": "/PROJEKTS/54321_pr_213/assets/slates",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "subtitles",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/subtitles",
                                         "Path": "/PROJEKTS/54321_pr_213/assets/subtitles",
                                         "Visibility": "Global"
                                     },
@@ -178,16 +216,19 @@
                                     },
                                     {
                                         "Bookmark": "titles",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/titles",
                                         "Path": "/PROJEKTS/54321_pr_213/assets/titles",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "tracking",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/tracking",
                                         "Path": "/PROJEKTS/54321_pr_213/assets/tracking",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "video",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/assets/video",
                                         "Path": "/PROJEKTS/54321_pr_213/assets/video",
                                         "Visibility": "Global"
                                     }
@@ -198,11 +239,13 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "editorial",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/editorial",
                                         "Path": "/PROJEKTS/54321_pr_213/editorial",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "aaf",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/editorial/aaf",
                                         "Path": "/PROJEKTS/54321_pr_213/editorial/aaf",
                                         "Visibility": "Global"
                                     },
@@ -223,6 +266,7 @@
                                     },
                                     {
                                         "Bookmark": "edl",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/editorial/edl",
                                         "Path": "/PROJEKTS/54321_pr_213/editorial/edl",
                                         "Visibility": "Global"
                                     },
@@ -233,11 +277,13 @@
                                     },
                                     {
                                         "Bookmark": "prep",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/editorial/prep",
                                         "Path": "/PROJEKTS/54321_pr_213/editorial/prep",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "xml",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/editorial/xml",
                                         "Path": "/PROJEKTS/54321_pr_213/editorial/xml",
                                         "Visibility": "Global"
                                     }
@@ -248,21 +294,25 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "flame",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/flame",
                                         "Path": "/PROJEKTS/54321_pr_213/flame",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "archives",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/flame/archives",
                                         "Path": "/PROJEKTS/54321_pr_213/flame/archives",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "iterations",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/flame/iterations",
                                         "Path": "/PROJEKTS/54321_pr_213/flame/iterations",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "setups",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/flame/setups",
                                         "Path": "/PROJEKTS/54321_pr_213/flame/setups",
                                         "Visibility": "Global"
                                     }
@@ -273,21 +323,25 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "masters",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/masters",
                                         "Path": "/PROJEKTS/54321_pr_213/masters",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "master_edits",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/masters/master_edits",
                                         "Path": "/PROJEKTS/54321_pr_213/masters/master_edits",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "slated_masters",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/masters/slated_masters",
                                         "Path": "/PROJEKTS/54321_pr_213/masters/slated_masters",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "versioned_masters",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/masters/versioned_masters",
                                         "Path": "/PROJEKTS/54321_pr_213/masters/versioned_masters",
                                         "Visibility": "Global"
                                     }
@@ -298,21 +352,25 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "reference",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/reference",
                                         "Path": "/PROJEKTS/54321_pr_213/reference",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "reference_images",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/reference/reference_images",
                                         "Path": "/PROJEKTS/54321_pr_213/reference/reference_images",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "reference_movies",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/reference/reference_movies",
                                         "Path": "/PROJEKTS/54321_pr_213/reference/reference_movies",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "reference_style_guide",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/reference/reference_style_guide",
                                         "Path": "/PROJEKTS/54321_pr_213/reference/reference_style_guide",
                                         "Visibility": "Global"
                                     }
@@ -323,76 +381,91 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "scenes",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/scenes",
                                         "Path": "/PROJEKTS/54321_pr_213/scenes",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "3ds",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/scenes/3ds",
                                         "Path": "/PROJEKTS/54321_pr_213/scenes/3ds",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "alembic",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/scenes/alembic",
                                         "Path": "/PROJEKTS/54321_pr_213/scenes/alembic",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "baselight",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/scenes/baselight",
                                         "Path": "/PROJEKTS/54321_pr_213/scenes/baselight",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "blender",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/scenes/blender",
                                         "Path": "/PROJEKTS/54321_pr_213/scenes/blender",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "c4d",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/scenes/c4d",
                                         "Path": "/PROJEKTS/54321_pr_213/scenes/c4d",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "cut",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/scenes/cut",
                                         "Path": "/PROJEKTS/54321_pr_213/scenes/cut",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "fbx",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/scenes/fbx",
                                         "Path": "/PROJEKTS/54321_pr_213/scenes/fbx",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "geometry",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/scenes/geometry",
                                         "Path": "/PROJEKTS/54321_pr_213/scenes/geometry",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "houdini",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/scenes/houdini",
                                         "Path": "/PROJEKTS/54321_pr_213/scenes/houdini",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "maya",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/scenes/maya",
                                         "Path": "/PROJEKTS/54321_pr_213/scenes/maya",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "resolve",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/scenes/resolve",
                                         "Path": "/PROJEKTS/54321_pr_213/scenes/resolve",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "unity",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/scenes/unity",
                                         "Path": "/PROJEKTS/54321_pr_213/scenes/unity",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "unreal_engine",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/scenes/unreal_engine",
                                         "Path": "/PROJEKTS/54321_pr_213/scenes/unreal_engine",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "usd",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/scenes/usd",
                                         "Path": "/PROJEKTS/54321_pr_213/scenes/usd",
                                         "Visibility": "Global"
                                     }
@@ -403,6 +476,7 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "shots",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/shots",
                                         "Path": "/PROJEKTS/54321_pr_213/shots",
                                         "Visibility": "Global"
                                     }
@@ -413,6 +487,7 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "tmp",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/tmp",
                                         "Path": "/PROJEKTS/54321_pr_213/tmp",
                                         "Visibility": "Global"
                                     }
@@ -423,6 +498,7 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "utilities",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/utilities",
                                         "Path": "/PROJEKTS/54321_pr_213/utilities",
                                         "Visibility": "Global"
                                     },
@@ -443,6 +519,7 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "version",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/version",
                                         "Path": "/PROJEKTS/54321_pr_213/version",
                                         "Visibility": "Global"
                                     }
@@ -453,11 +530,13 @@
                                 "Bookmarks": [
                                     {
                                         "Bookmark": "work_in_progress",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/work_in_progress",
                                         "Path": "/PROJEKTS/54321_pr_213/work_in_progress",
                                         "Visibility": "Global"
                                     },
                                     {
                                         "Bookmark": "postings",
+                                        "Path": "/PROJEKTS/vfx_shot_tracker_test_01/work_in_progress/postings",
                                         "Path": "/PROJEKTS/54321_pr_213/work_in_progress/postings",
                                         "Visibility": "Global"
                                     }
