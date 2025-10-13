@@ -1,1 +1,22 @@
-
+<?xml version='1.0' encoding='utf-8'?>
+<Project>
+  <Name>333_xyz_224_2026_1_pluto</Name>
+  <Nickname>333_xyz_224</Nickname>
+  <ShotgunProjectName>333_xyz_224</ShotgunProjectName>
+  <Description>yap</Description>
+  <CatalogDir>/Volumes/THUNDERBLADE/Autodesk/flame/projects/333_xyz_224_2026_1_pluto/catalog</CatalogDir>
+  <ProjectDir>/Volumes/THUNDERBLADE/Autodesk/flame/projects/333_xyz_224_2026_1_pluto</ProjectDir>
+  <SetupDir>/Volumes/THUNDERBLADE/Autodesk/flame/projects/333_xyz_224_2026_1_pluto/setups</SetupDir>
+  <MediaDir>/Volumes/THUNDERBLADE/Autodesk/flame/projects/333_xyz_224_2026_1_pluto/media</MediaDir>
+  <Version>2026.1</Version>
+  <FrameWidth>3840</FrameWidth>
+  <FrameHeight>2160</FrameHeight>
+  <FrameDepth>16-bit fp</FrameDepth>
+  <AspectRatio>1.7777778</AspectRatio>
+  <FieldDominance>PROGRESSIVE</FieldDominance>
+  <ColourPolicyName>ACES 2.0</ColourPolicyName>
+  <OCIOConfigFile>/opt/Autodesk/colour_mgmt/configs/flame_configs/2026.0/aces2.0_config/config.ocio</OCIOConfigFile>
+  <IntermediatesProfile>2:1185912</IntermediatesProfile>
+  <FrameRate>23.976 fps</FrameRate>
+  <DefaultStartFrame>1001</DefaultStartFrame>
+</Project>

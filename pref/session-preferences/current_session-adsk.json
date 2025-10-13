@@ -1,1 +1,19 @@
-
+{
+    "Name": "333_xyz_224_2026_1_pluto",
+    "ProjectDir": "/Volumes/THUNDERBLADE/Autodesk/flame/projects/333_xyz_224_2026_1_pluto",
+    "SetupDir": "/Volumes/THUNDERBLADE/Autodesk/flame/projects/333_xyz_224_2026_1_pluto/setups",
+    "MediaDir": "/Volumes/THUNDERBLADE/Autodesk/flame/projects/333_xyz_224_2026_1_pluto/media",
+    "Resolution": {
+        "FrameWidth": 3840,
+        "FrameHeight": 2160,
+        "FrameDepth": "16-bit fp",
+        "AspectRatio": 1.7777778,
+        "FieldDominance": "PROGRESSIVE"
+    },
+    "StartFrame": 1001,
+    "ConfigTemplate": "3840x2160@23976p.cfg",
+    "FrameRate": "23.976 fps",
+    "IntermediatesProfile": 2,
+    "FloatIntermediates": 1185912,
+    "ColourPolicyName": "ACES 2.0"
+}
